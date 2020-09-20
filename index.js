@@ -11,6 +11,6 @@ function happyCustomHolidayTo(Christmas, Larry) {
   console.log(`Happy ${holiday}, ${name}!`)
 }
 
-function holidayCountdown(Halloween, int45) {
+function holidayCountdown(holiday, days) {
   console.log(`It's ${days} days until ${holiday}!`)
 }
