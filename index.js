@@ -4,4 +4,4 @@ function happyHolidays() {
 }
 
 function happyHolidaysTo() {
-  (console.log(`My birthday is ${date}`)
+  console.log(`Happy holidays, ${name}!`)
