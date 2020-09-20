@@ -8,6 +8,5 @@ function happyHolidaysTo(Larry) {
 }
 
 function happyCustomHolidayTo(Christmas, Larry) {
-  
-  
+  console.log(`Happy ${holiday}, ${name}!`)
 }
